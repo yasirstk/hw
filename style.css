@@ -1,0 +1,72 @@
+.container{
+    margin-bottom: 50px;
+}
+.navbar-nav{
+    float: right;
+}
+
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.item-heading{
+    color: rgb(255, 71, 71);
+}
+.card-body{
+    align-content: center;
+}
+.card-title, .card-text{
+    text-align: center;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card-title{
+    align-items: center;
+}
+.card-footer button{
+    margin-left: 130px;
+}
+
+.categories{
+    margin-left: 500px;
+}
+.underline{
+    background-image:linear-gradient(to right, orange,  tomato);
+    width: 100px;
+    height: 7px;
+    margin-left: 15px;
+    border-radius: 3px;
+}
+#pale-order{
+    width: 400px;
+    height: 400px;
+}
+.col-md-3 img{
+    align-items: center ;
+    margin-left: 20px;
+}
+#item-bag{
+    width: 250px;
+    height: 250px;
+    border: 1px solid lightgray;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: px;
+    box-shadow: 1px 1px 15px;
+    margin-right: 10px;
+}
+.item-2-bags{
+    width: 250px;
+    height: 250px;
+    border: 1px solid lightgray;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 15px;
+    padding: px;
+    box-shadow: 1px 1px 15px ;
+    margin-left: 180px;
+    margin-top: 10px;
+
+}
